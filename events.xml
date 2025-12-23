@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss version="2.0">
+  <channel>
+    <title>Goodnights Comedy Club Events</title>
+    <link>https://www.goodnightscomedy.com/events</link>
+    <description>Comedy events at Goodnights Comedy Club in Raleigh, NC</description>
+    <item>
+      <title>Open Mic at Goodnights (January 20 - January 27)</title>
+      <link>https://www.goodnightscomedy.com/events/128293</link>
+      <guid>https://www.goodnightscomedy.com/events/128293</guid>
+      <pubDate>Tue, 23 Dec 2025 17:39:09 -0500</pubDate>
+      <description>20+ comics, lots of laughs. Everyone starts somewhere. See the next big thing here! Make us your place for dinner, drinks and comedy!</description>
+      <enclosure type="image/jpeg" url="https://files.seatengine.com/talent/headshots/photos/76972/full/data"/>
+    </item>
+  </channel>
+</rss>
